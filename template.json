@@ -1,0 +1,14 @@
+{
+    "faction": "r/Youmo",
+    "contact": "https://discord.gg/rvGdVtxq",
+    "templates": [
+      {
+        "name": "Duckduck",
+        "sources": [
+          "https://raw.githubusercontent.com/AutoReplySender/Youmo-place/main/duckduck.png"
+        ],
+        "x": 897,
+        "y": 222
+      }
+    ]
+  }
