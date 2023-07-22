@@ -7,8 +7,16 @@
         "sources": [
           "https://raw.githubusercontent.com/AutoReplySender/Youmo-place/main/duckduck.png"
         ],
-        "x": 1300,
+        "x": 1800,
         "y": 776
-      }
+      },
+      {
+        "name": "Winnie-XJP",
+        "sources": [
+          "https://imgur.com/4sMsLNZ.png"
+        ],
+        "x": 469,
+        "y": 954
+      }      
     ]
   }
